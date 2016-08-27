@@ -1,4 +1,4 @@
-package Cycles;
+package cycles;
 
 /**
  * Created by drkomp on 26.08.2016.

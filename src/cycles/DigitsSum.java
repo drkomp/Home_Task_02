@@ -1,4 +1,4 @@
-package Cycles;
+package cycles;
 import java.util.Scanner;
 /**
  * Для введённого пользователем с клавиатуры натурального числа посчитайте сумму всех его цифр
