@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Created by drkomp on 27.08.2016.
  * •	Написать метод, который для данного числа n (заданного с клавиатуры) вычисляет сумму чисел от 1 до n;
  */
-public class SumN {
+public class  SumN {
     public static int sum0toN(int n) {
         return n < 1 ? 0 : (n + sum0toN(n - 1));
     }
